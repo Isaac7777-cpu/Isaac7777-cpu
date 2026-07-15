@@ -33,18 +33,23 @@
 
 ### GitHub at a glance
 
-<p align="center">
-  <a href="https://github.com/Isaac7777-cpu"><img width="49%" alt="GitHub profile summary" src="./header.svg" /></a>
-  <a href="https://github.com/Isaac7777-cpu?tab=repositories"><img width="49%" alt="Repository statistics" src="./repositories.svg" /></a>
-</p>
+<a href="https://github.com/Isaac7777-cpu">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/Isaac7777-cpu">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/Isaac7777-cpu">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Isaac7777-cpu"><img width="49%" alt="Activity and community statistics" src="./acti_comm.svg" /></a>
-  <a href="https://github.com/Isaac7777-cpu"><img width="49%" alt="Contribution calendar" src="./iso_calender.svg" /></a>
-</p>
+<a href="https://github.com/Isaac7777-cpu">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Isaac7777-cpu"><img width="49%" alt="Issues, pull requests, and language statistics" src="./issue_pr_lang.svg" /></a>
-</p>
+<a href="https://github.com/Isaac7777-cpu">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
 
 <sub>These cards are refreshed daily by GitHub Actions.</sub>
