@@ -31,12 +31,6 @@
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
-### What I'm working on
-
-- Applying machine learning and statistical modelling to real datasets.
-- Learning graphics and systems programming through [Metal/C++](https://github.com/Isaac7777-cpu/learning-metal-cpp-game-engine), [Zig](https://github.com/Isaac7777-cpu/zig-asteroids), and [Rust](https://github.com/Isaac7777-cpu/zero-to-prod-rust).
-- Building and refining developer tools for [Neovim](https://github.com/Isaac7777-cpu/nvim-config) and the terminal.
-
 ### Languages and tools
 
 <p>
@@ -51,5 +45,11 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
+
+### What I'm working on
+
+- Applying machine learning and statistical modelling to real datasets.
+- Learning graphics and systems programming through [Metal/C++](https://github.com/Isaac7777-cpu/learning-metal-cpp-game-engine), [Zig](https://github.com/Isaac7777-cpu/zig-asteroids), and [Rust](https://github.com/Isaac7777-cpu/zero-to-prod-rust).
+- Building and refining developer tools for [Neovim](https://github.com/Isaac7777-cpu/nvim-config) and the terminal.
 
 <sub>These cards are refreshed daily by GitHub Actions.</sub>
