@@ -51,7 +51,7 @@
     <img width="49%" alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac7777-cpu&theme=tokyonight&exclude=Jupyter%20Notebook" />
   </a>
   <a href="https://github.com/Isaac7777-cpu">
-    <img width="49%" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac7777-cpu&theme=github_dark&exclude=Jupyter%20Notebook" />
+    <img width="49%" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac7777-cpu&theme=tokyonight&exclude=Jupyter%20Notebook" />
   </a>
 </p>
 
