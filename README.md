@@ -12,9 +12,9 @@
 
 ### What I'm working on
 
+- Applying machine learning and statistical modelling to real datasets.
 - Learning graphics and systems programming through [Metal/C++](https://github.com/Isaac7777-cpu/learning-metal-cpp-game-engine), [Zig](https://github.com/Isaac7777-cpu/zig-asteroids), and [Rust](https://github.com/Isaac7777-cpu/zero-to-prod-rust).
 - Building and refining developer tools for [Neovim](https://github.com/Isaac7777-cpu/nvim-config) and the terminal.
-- Applying machine learning and statistical modelling to real datasets.
 
 ### Languages and tools
 
