@@ -46,6 +46,7 @@
   <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/Isaac7777-cpu?tab=repositories">
     <img width="49%" alt="Languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isaac7777-cpu&theme=tokyonight&exclude=Jupyter%20Notebook" />
@@ -54,6 +55,7 @@
     <img width="49%" alt="Languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isaac7777-cpu&theme=tokyonight&exclude=Jupyter%20Notebook" />
   </a>
 </p>
+-->
 
 ### What I'm working on
 
